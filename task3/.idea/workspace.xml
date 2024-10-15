@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dbc0d80-1bf9-4ba0-b919-0a4bbc2a457a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/task3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MenuComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.java" afterDir="false" />
+    <list default="true" id="2dbc0d80-1bf9-4ba0-b919-0a4bbc2a457a" name="Changes" comment="Composite Pattern - Menu System">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +50,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729022935684</updated>
     </task>
+    <task id="LOCAL-00001" summary="Composite Pattern - Menu System">
+      <option name="closed" value="true" />
+      <created>1729023226443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729023226443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Composite Pattern - Menu System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Composite Pattern - Menu System" />
   </component>
 </project>
