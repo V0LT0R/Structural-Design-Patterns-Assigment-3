@@ -4,7 +4,7 @@ public class AdvancedRemote extends RemoteControl {
     }
 
     public void mute() {
-        System.out.println("Muting the device");
+        System.out.println("Muting the device.");
         device.setVolume(0);
     }
 }
