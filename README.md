@@ -67,3 +67,5 @@ Student selects to play Lecture 3 (Proxy Pattern):
 Loading video: proxy.mp4...
 Video loaded: proxy.mp4
 Playing video: Proxy Pattern
+```
+Made by Biloshchytskyi Yevhenii
